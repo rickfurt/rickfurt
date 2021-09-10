@@ -1,7 +1,7 @@
 # Ricardo F.👋
 
 
-Welcome to my GitHub profile, I'm a Junior Software Developer at <a href="atelier.co" target="_blank">ATELIER</a> 💻
+Welcome to my GitHub profile, I'm a Junior Software Developer at <a href="https://www.atelier.co" target="_blank">ATELIER</a> 💻
 
 :rocket: &nbsp; I’m currently working on a project using NextJS, React, GraphQL, Apollo, Prisma...
 
